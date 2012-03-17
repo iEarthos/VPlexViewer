@@ -1,4 +1,4 @@
-__VPlexViewer__ is an iPad App that allows viewing Configuration Data from a [EMC VPlex Storage Virtualisation Platform](http://www.emc.com/campaign/global/vplex/index.htm) 
+__VPlexViewer__ is an iPad App that allows viewing Configuration Data from a [EMC VPlex Storage Virtualization Platform](http://www.emc.com/campaign/global/vplex/index.htm) 
 
 VPlexViewer is also available on the [iOS AppStore](http://itunes.apple.com/de/app/vplexviewer/id507541319?mt=8)
 
