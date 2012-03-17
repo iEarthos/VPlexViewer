@@ -19,6 +19,7 @@
 		F611B5A314F7957A003E2712 /* swung.png in Resources */ = {isa = PBXBuildFile; fileRef = F611B5A114F7957A003E2712 /* swung.png */; };
 		F611B5A414F7957A003E2712 /* emcvplexmgmt.png in Resources */ = {isa = PBXBuildFile; fileRef = F611B5A214F7957A003E2712 /* emcvplexmgmt.png */; };
 		F6201FFD14FAC9ED00C4710F /* TODO.txt in Resources */ = {isa = PBXBuildFile; fileRef = F6201FFC14FAC9ED00C4710F /* TODO.txt */; };
+		F647E1B01515267500580FB3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F647E1AF1515267500580FB3 /* README.md */; };
 		F66855EA14FA2E760069583F /* aboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F66855E814FA2E760069583F /* aboutViewController.m */; };
 		F66855EB14FA2E760069583F /* aboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F66855E914FA2E760069583F /* aboutViewController.xib */; };
 		F66855F414FA34C60069583F /* CommandViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F66855F214FA34C50069583F /* CommandViewController.m */; };
@@ -82,6 +83,7 @@
 		F611B5A114F7957A003E2712 /* swung.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swung.png; sourceTree = "<group>"; };
 		F611B5A214F7957A003E2712 /* emcvplexmgmt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = emcvplexmgmt.png; sourceTree = "<group>"; };
 		F6201FFC14FAC9ED00C4710F /* TODO.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TODO.txt; sourceTree = "<group>"; };
+		F647E1AF1515267500580FB3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		F66855E714FA2E760069583F /* aboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aboutViewController.h; sourceTree = "<group>"; };
 		F66855E814FA2E760069583F /* aboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = aboutViewController.m; sourceTree = "<group>"; };
 		F66855E914FA2E760069583F /* aboutViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = aboutViewController.xib; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 		F611B57514F792E3003E2712 = {
 			isa = PBXGroup;
 			children = (
+				F647E1AF1515267500580FB3 /* README.md */,
 				F6201FFC14FAC9ED00C4710F /* TODO.txt */,
 				F673479D14F7A40900719913 /* ASIHTTP */,
 				F673481514F7A42600719913 /* images */,
@@ -419,6 +422,7 @@
 				F66855F514FA34C60069583F /* CommandViewController.xib in Resources */,
 				F6201FFD14FAC9ED00C4710F /* TODO.txt in Resources */,
 				F6BD1EF914FFBDD800AB29F4 /* CReportViewController.xib in Resources */,
+				F647E1B01515267500580FB3 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
